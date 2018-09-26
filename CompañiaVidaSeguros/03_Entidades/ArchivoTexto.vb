@@ -1,6 +1,6 @@
 ﻿Public Class ArchivoTexto
     Private _nombre As String
-    Private _apellido As String
+    Private _apellido2 As String
     Private _cedula As String
     Private _fechaNacimiento As String
     Private _nacionalidad As String
@@ -21,10 +21,10 @@
 
     Public Property Apellido As String
         Get
-            Return _apellido
+            Return _apellido2
         End Get
         Set(value As String)
-            _apellido = value
+            _apellido2 = value
         End Set
     End Property
 

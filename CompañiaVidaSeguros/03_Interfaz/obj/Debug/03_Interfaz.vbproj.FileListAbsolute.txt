@@ -1,0 +1,14 @@
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\bin\Debug\03_Interfaz.exe.config
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\bin\Debug\03_Interfaz.exe
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\bin\Debug\03_Interfaz.pdb
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\bin\Debug\03_Interfaz.xml
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\bin\Debug\02_LogicaNegocios.dll
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\bin\Debug\02_LogicaNegocios.pdb
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\bin\Debug\02_LogicaNegocios.xml
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\obj\Debug\03_Interfaz.vbprojResolveAssemblyReference.cache
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\obj\Debug\_03_Interfaz.Resources.resources
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\obj\Debug\03_Interfaz.vbproj.GenerateResource.Cache
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\obj\Debug\03_Interfaz.exe
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\obj\Debug\03_Interfaz.xml
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\obj\Debug\03_Interfaz.pdb
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\03_Interfaz\obj\Debug\_03_Interfaz.ClientesFrm.resources

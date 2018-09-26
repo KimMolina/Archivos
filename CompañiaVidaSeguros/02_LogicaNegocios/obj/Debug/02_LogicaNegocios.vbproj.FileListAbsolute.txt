@@ -1,0 +1,15 @@
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\02_LogicaNegocios.dll
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\02_LogicaNegocios.pdb
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\02_LogicaNegocios.xml
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\01AccesoADatos.dll
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\01AccesoADatos.pdb
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\01AccesoADatos.xml
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\obj\Debug\02_LogicaNegocios.vbprojResolveAssemblyReference.cache
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\obj\Debug\_02_LogicaNegocios.Resources.resources
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\obj\Debug\02_LogicaNegocios.vbproj.GenerateResource.Cache
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\obj\Debug\02_LogicaNegocios.dll
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\obj\Debug\02_LogicaNegocios.xml
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\obj\Debug\02_LogicaNegocios.pdb
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\03_Entidades.dll
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\03_Entidades.pdb
+E:\Kimberly\Mis documentos\La U\CUC\2018\5Cuatri\Programación_II\Proyectos\CompañiaSegurosVIDAS.A\CompañiaVidaSeguros\02_LogicaNegocios\bin\Debug\03_Entidades.xml

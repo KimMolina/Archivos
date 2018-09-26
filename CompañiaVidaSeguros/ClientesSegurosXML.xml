@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DatosClientes>
+  <Cliente>
+    <Nombre>Alicia</Nombre>
+    <Apellido>Mena</Apellido>
+    <Cedula>1023690258</Cedula>
+    <FechaNacimiento>1980-10-28T00:00:00-06:00</FechaNacimiento>
+    <Nacionalidad>Costarricense</Nacionalidad>
+    <ProvinciaCanton>San Jose,Montes de Oca</ProvinciaCanton>
+    <Correo> alisMena@gmail.com</Correo>
+    <CoberturaSeguro>5000000</CoberturaSeguro>
+    <FechaInicioSeguro>2015-03-01T00:00:00-06:00</FechaInicioSeguro>
+    <Mensualidad>75000</Mensualidad>
+  </Cliente>
+  <Cliente>
+    <Nombre>Raul</Nombre>
+    <Apellido>Fonseca</Apellido>
+    <Cedula>1053691258</Cedula>
+    <FechaNacimiento>1970-08-15T00:00:00-06:00</FechaNacimiento>
+    <Nacionalidad>Costarricense</Nacionalidad>
+    <ProvinciaCanton>San Jose,Moravia</ProvinciaCanton>
+    <Correo>RFonseca@gmail.com</Correo>
+    <CoberturaSeguro>5000000</CoberturaSeguro>
+    <FechaInicioSeguro>2015-03-01T00:00:00-06:00</FechaInicioSeguro>
+    <Mensualidad>75000</Mensualidad>
+  </Cliente>
+</DatosClientes>
